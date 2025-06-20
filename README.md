@@ -16,7 +16,7 @@ The tarballs for `libczi_julia_jll.jl` have been built from these sources:
 
 `libczi_julia_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
+* `Linux x86_64 {julia_version=1.11.1, libc=glibc}` (`x86_64-linux-gnu-julia_version+1.11.1`)
 
 ## Dependencies
 

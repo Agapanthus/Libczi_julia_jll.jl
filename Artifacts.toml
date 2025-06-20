@@ -7,3 +7,13 @@ os = "linux"
     [[libczi_julia.download]]
     sha256 = "23acd97d6e5e2f06f2586b5c2790d578827d429b6bd65245e4ef12d38fb53b9a"
     url = "https://github.com/Agapanthus/Libczi_julia_jll.jl/releases/download/libczi_julia-v0.1.0+0/libczi_julia.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[libczi_julia]]
+arch = "x86_64"
+git-tree-sha1 = "daa5570d47078019ff19e58371d8180a295d9cc9"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[libczi_julia.download]]
+    sha256 = "f1b4aca688dc8f9ea65d3955773f58951d624d344dad81549bc561a2d6e0fbdd"
+    url = "https://github.com/Agapanthus/Libczi_julia_jll.jl/releases/download/libczi_julia-v0.1.0+0/libczi_julia.v0.1.0.x86_64-linux-gnu-julia_version+1.11.1.tar.gz"
