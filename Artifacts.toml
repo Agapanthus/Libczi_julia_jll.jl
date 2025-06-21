@@ -1,14 +1,5 @@
 [[libczi_julia]]
 arch = "x86_64"
-git-tree-sha1 = "05ecbf6addd31b1c329ed5c359f8f382d18bce86"
-libc = "glibc"
-os = "linux"
-
-    [[libczi_julia.download]]
-    sha256 = "23acd97d6e5e2f06f2586b5c2790d578827d429b6bd65245e4ef12d38fb53b9a"
-    url = "https://github.com/Agapanthus/Libczi_julia_jll.jl/releases/download/libczi_julia-v0.1.0+0/libczi_julia.v0.1.0.x86_64-linux-gnu.tar.gz"
-[[libczi_julia]]
-arch = "x86_64"
 git-tree-sha1 = "daa5570d47078019ff19e58371d8180a295d9cc9"
 julia_version = "1.11.1"
 libc = "glibc"
@@ -751,3 +742,20 @@ os = "windows"
     [[libczi_julia.download]]
     sha256 = "b167acdf2ee977ff031520d8bec974d8e5fbf0a189e23f280f8da34257d67301"
     url = "https://github.com/Agapanthus/Libczi_julia_jll.jl/releases/download/libczi_julia-v0.1.0+0/libczi_julia.v0.1.0.x86_64-w64-mingw32-julia_version+1.9.0.tar.gz"
+[[libczi_julia]]
+arch = "x86_64"
+git-tree-sha1 = "41cd34dd2ae34d48427f210c347d0e7ed30ed7b9"
+libc = "glibc"
+os = "linux"
+
+    [[libczi_julia.download]]
+    sha256 = "03d4b0f866a9ec160b1301f2dad60f497265cacfe3e9ea82359e6295aad083ae"
+    url = "https://github.com/Agapanthus/Libczi_julia_jll.jl/releases/download/libczi_julia-v0.1.0+0/libczi_julia.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[libczi_julia]]
+arch = "x86_64"
+git-tree-sha1 = "47e40a10cebdcb41b630bec626f29775aea70ae3"
+os = "windows"
+
+    [[libczi_julia.download]]
+    sha256 = "9a2afdeb2610d47b558800da6e2c9bbf9dee4a6867039eb74d18044e99bd680e"
+    url = "https://github.com/Agapanthus/Libczi_julia_jll.jl/releases/download/libczi_julia-v0.1.0+0/libczi_julia.v0.1.0.x86_64-w64-mingw32.tar.gz"
